@@ -1,3 +1,11 @@
+# Fork Ignores
+bench/
+cmake/
+example/
+logos/
+scripts/
+tests/
+
 # Auto generated files
 [Dd]ebug/
 [Rr]elease/
