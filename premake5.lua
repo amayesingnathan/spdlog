@@ -17,6 +17,11 @@ project "spdlog"
 	{
 		"include"
 	}
+	
+	defines
+	{
+		"SPDLOG_COMPILED_LIB",
+	}
 
     filter "system:windows"
         systemversion "latest"
